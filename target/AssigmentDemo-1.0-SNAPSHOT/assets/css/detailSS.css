@@ -1,0 +1,21 @@
+/* Footer color for sake of consistency with Navbar */
+.page-footer {
+    background-color: #929FBA; }
+
+.lead span {
+    font-size: larger;
+    color: darkcyan;
+    font-weight: 800;
+}
+
+.bName {
+    font-family: "Gugi", cursive;
+}
+
+.img-fluid {
+    border: 5px solid #555;
+}
+
+body {
+    background-color: beige;
+}
